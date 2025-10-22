@@ -1,0 +1,22 @@
+{
+    "singals" : [
+        {
+            "name" : "send1",
+            "type" : "file",
+            "path" : null
+        },
+        {
+            "name" : "send2",
+            "type" : "pipeline"
+        },
+        {
+            "name" : "send3",
+            "type" : "query"
+        },
+        {
+            "name" : "send4",
+            "type" : "cmdvar",
+            "header" : "-"
+        }
+    ]
+}

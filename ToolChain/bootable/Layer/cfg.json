@@ -1,0 +1,20 @@
+{
+    "reg_blocks": [
+        {
+            "path": null
+        }
+    ],
+    "structures": [
+        {
+            "name": "block1",
+            "bind" : {
+                "slots": ["slot1","slot2"],
+                "singals": ["signal1","signal2"],
+                "internal_" : {
+                    "query": ["query1","query2"],
+                    "pipeline" : ["pipeline1","pipeline2"]
+                }
+            }
+        }
+    ]
+}
