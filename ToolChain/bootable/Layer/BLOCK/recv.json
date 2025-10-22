@@ -1,0 +1,22 @@
+{
+    "slots" : [
+        {
+            "name" : "slot1",
+            "type" : "file",
+            "path" : null
+        },
+        {
+            "name" : "slot2",
+            "type" : "pipline"
+        },
+        {
+            "name" : "slot3",
+            "type" : "query"
+        },
+        {
+            "name" : "slot4",
+            "type" : "cmdvar",
+            "header": "-"
+        }
+    ]
+}
