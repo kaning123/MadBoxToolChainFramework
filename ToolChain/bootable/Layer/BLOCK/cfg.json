@@ -2,5 +2,9 @@
     "name": "BLOCK",
     "version": "1.0.0",
     "description": "",
-    "author": "MadBox"
+    "type" : ["python","block"],
+    "DetailCfg" : {
+        "pythonfile" : "block.py",
+        "consoleinputdefault" : []
+        }
 }

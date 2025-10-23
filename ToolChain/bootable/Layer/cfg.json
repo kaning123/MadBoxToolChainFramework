@@ -1,4 +1,9 @@
 {
+    "name": "Layer",
+    "version": "1.0",
+    "description": "This is a layer for testing",
+    "author": "MadBox",
+    "type" : "layer",
     "reg_blocks": [
         {
             "path": null
